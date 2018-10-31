@@ -5,7 +5,7 @@ and avoiding different procedurally generated obstacles in order to beat their p
 
 You can see the tutorial here:
 
-![](My%20Movie%204.gif)
+![](tutorialGIF.gif)
 
 This is a general clip of the gameplay:
 
